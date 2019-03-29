@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 iihi this is rajini
+=======
+frrgg g gre
+hi this is rajini
+>>>>>>> bb2224db344f010862af2a13a517ab4255d2c93c

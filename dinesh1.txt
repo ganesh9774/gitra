@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 rtff rt55
 C
 hi this is dinesh
+=======
+iii hi this is dinesh
+hvjkvs hjjg 
+jnkj uuugt hui
+>>>>>>> bb2224db344f010862af2a13a517ab4255d2c93c
 
